@@ -1,0 +1,15 @@
+{
+    "user": [
+        "name",
+        "contact",
+        "email"
+    ],
+    "posts": [
+        {
+            "name": "yash",
+            "contact": "6352288001",
+            "email": "koladiyayash@gmail.com"
+        }
+    ]
+
+}
